@@ -9,4 +9,4 @@ This allows users to connect applications to OpenSearch in Nullstone without hav
 1. Create a datastore for existing OpenSearch.
 2. Find your OpenSearch domain in the AWS console. Copy the domain name.
 3. Launch the datastore and use the domain name for the `domain_name` variable.
-4. Connect your application to OpenSearch as a capability.
+4. Connect your application to the OpenSearch datastore as a capability.
