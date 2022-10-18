@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-existing-opensearch
+friendly_name: Existing OpenSearch
+description: Import an existing OpenSearch cluster to easily hook into Nullstone
+category: datastore
+subcategory: ""
+provider_types:
+    - aws
+platform: elasticsearch/opensearch
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
